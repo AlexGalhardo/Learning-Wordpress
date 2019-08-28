@@ -13,10 +13,19 @@
     - https://codex.wordpress.org/pt-br:O_Loop
     - https://wordpress.org/about/requirements/
     - https://wphierarchy.com/
+ - Recommended Hosts
+    - https://br.bluehost.com/
+    - https://king.host/hospedagem-de-sites
+    - https://mediatemple.net/webhosting/managed-wordpress
+    - https://www.dreamhost.com/wordpress/
+    - https://www.hostgator.com.br/
+    - https://www.digitalocean.com/
+    - https://www.umbler.com/br
  - Sites
     - [WP Beginner](https://www.wpbeginner.com/)
     - [WP Cli](http://wp-cli.org/)
     - [ManageWP](https://managewp.com/)
+    - https://wpengine.com/
  - Recommended Plugins
     - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
     - [Duplicator](https://wordpress.org/plugins/duplicator/)
@@ -31,13 +40,16 @@
     - [Yoast SEO Plugin](https://yoast.com/wordpress/plugins/seo/)
     - [Autoptimize](https://wordpress.org/plugins/autoptimize/)
     - [EWWW Image Optimizer](https://br.wordpress.org/plugins/ewww-image-optimizer/)
+ - WooCommerce
+    - https://woocommerce.com/products/sensei/
  - Themes
     - [ThemeForest](http://themeforest.net/category/wordpress)
     - [ThemeFuse](http://themefuse.com/)
- - Security
+ - Security & Backups
     - [Sucuri](https://sucuri.net/)
+    - https://vaultpress.com/
  - CDN
-    - [CloudFlare]()
+    - [CloudFlare](https://www.cloudflare.com/pt-br/)
     - [StackPath](https://www.stackpath.com/)
  - Forum
     - [BBPress](https://bbpress.org/)
