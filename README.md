@@ -13,6 +13,9 @@
     - https://codex.wordpress.org/pt-br:O_Loop
     - https://wordpress.org/about/requirements/
     - https://wphierarchy.com/
+ - Others Tutorials
+    - http://www.wp24horas.com.br/tutoriais/como-habilitar-emails-wordpress-localhost-usando-xampp
+    - https://www.hostinger.com.br/tutoriais/aprenda-a-utilizar-o-smtp-google/
  - Recommended Hosts
     - https://br.bluehost.com/
     - https://king.host/hospedagem-de-sites
@@ -25,8 +28,9 @@
     - [WP Beginner](https://www.wpbeginner.com/)
     - [WP Cli](http://wp-cli.org/)
     - [ManageWP](https://managewp.com/)
-    - https://wpengine.com/
+    - [WPEngine](https://wpengine.com/)
  - Recommended Plugins
+    - [WP-Mail-SMTP](https://wordpress.org/plugins/wp-mail-smtp/)
     - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
     - [Duplicator](https://wordpress.org/plugins/duplicator/)
     - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
