@@ -5,6 +5,10 @@
  - Configuration Tutorials
     - Configure FTP Localhost
        - [LocalHost Docs Transfer Files FTP](http://localhost/dashboard/docs/transfer-files-ftp.html)
+ - URLs
+    - http://localhost/wordpress/wp-admin
+    - http://localhost/wordpress/wp-login
+    - http://localhost/wordpress/wp-json
  - Usefull Tools
     - https://cyberduck.io/
     - https://filezilla-project.org/
