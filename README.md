@@ -5,15 +5,21 @@
  - Configuration Tutorials
     - Configure FTP Localhost
        - [LocalHost Docs Transfer Files FTP](http://localhost/dashboard/docs/transfer-files-ftp.html)
+ - Usefull Tools
+    - https://cyberduck.io/
+    - https://filezilla-project.org/
  - Usefull Oficial Tutoriais
     - https://codex.wordpress.org/Theme_Development
     - https://codex.wordpress.org/pt-br:O_Loop
+    - https://wordpress.org/about/requirements/
+    - https://wphierarchy.com/
  - Sites
     - [WP Beginner](https://www.wpbeginner.com/)
-    - [WP Hierarchy](https://wphierarchy.com/)
     - [WP Cli](http://wp-cli.org/)
     - [ManageWP](https://managewp.com/)
  - Recommended Plugins
+    - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+    - [Duplicator](https://wordpress.org/plugins/duplicator/)
     - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
     - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
     - [StarRating](https://wordpress.org/plugins/yet-another-stars-rating/)
