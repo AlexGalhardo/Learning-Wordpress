@@ -5,6 +5,8 @@
  - Configuration Tutorials
     - Configure FTP Localhost
        - [LocalHost Docs Transfer Files FTP](http://localhost/dashboard/docs/transfer-files-ftp.html)
+ - Migration
+    - https://goodbye.host/file
  - URLs
     - http://localhost/wordpress/wp-admin
     - http://localhost/wordpress/wp-login
@@ -33,11 +35,16 @@
     - [WP Cli](http://wp-cli.org/)
     - [ManageWP](https://managewp.com/)
     - [WPEngine](https://wpengine.com/)
+ - Blogs
+    - https://claudiosanches.com/
  - Recommended Plugins
+    - [JetPack](https://jetpack.com/)
     - [WP-Mail-SMTP](https://wordpress.org/plugins/wp-mail-smtp/)
     - [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
     - [Duplicator](https://wordpress.org/plugins/duplicator/)
     - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+    - [Loco Translate](https://br.wordpress.org/plugins/loco-translate/)
+    - [Weglot Translate](https://pt.wordpress.org/plugins/weglot/)
     - [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/)
     - [StarRating](https://wordpress.org/plugins/yet-another-stars-rating/)
     - [All in One Schema rich snipptets](https://wordpress.org/plugins/all-in-one-schemaorg-rich-snippets/?utm_source=blog&utm_campaign=rc_blogpost)
@@ -48,6 +55,7 @@
     - [Yoast SEO Plugin](https://yoast.com/wordpress/plugins/seo/)
     - [Autoptimize](https://wordpress.org/plugins/autoptimize/)
     - [EWWW Image Optimizer](https://br.wordpress.org/plugins/ewww-image-optimizer/)
+    - [Duplicator](https://br.wordpress.org/plugins/duplicator/)
  - WooCommerce
     - https://woocommerce.com/products/sensei/
  - Themes
